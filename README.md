@@ -10,7 +10,7 @@ I'm passionate about building intelligent solutions using **Data Science, Machin
 - 🌱 Learning **Deep Learning, MLOps, Cloud & Full-Stack Development**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💡 Interested in **Machine Learning, Analytics & Automation**
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **utkarshtripathi.rpt@gmail.com**
 - ⚡ Fun Fact: *Turning coffee into code since day one.*
 
 ---
